@@ -5,21 +5,21 @@ const testimonialData = [
     name: 'Anne Smith',
     position: 'Customer',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      "I had a fantastic experience working with Narayan Verma on our website design. Narayan listened to our needs and turned our ideas into a beautifully designed website that’s both user-friendly and visually appealing. His creative approach and attention to detail made a huge difference, and the results speak for themselves. Highly recommend his services!",
   },
   {
     image: '/t-avt-2.png',
-    name: 'Jane Doe',
+    name: 'Afreen Khan',
     position: 'Customer',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+     "Narayan Verma is a true professional when it comes to web design! He transformed our outdated website into a modern, responsive site that has really impressed our customers. Narayan’s guidance and expertise helped us make the right design choices, and he delivered everything on time. Working with him was a pleasure, and we are thrilled with the outcome.",
   },
   {
     image: '/t-avt-3.png',
-    name: 'Jhon Doe',
+    name: 'Alex thomas',
     position: 'Customer',
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum expedita odit beatae, cupiditate saepe quam officia aut placeat quas neque!',
+      "Narayan Verma went above and beyond to design a website that exceeded our expectations. He took the time to understand our brand and created a layout that’s both stylish and functional. Narayan’s technical skills, combined with his creativity, make him a fantastic choice for anyone looking to improve their online presence. We couldn’t be happier with our new site!",
   },
 ];
 

@@ -19,7 +19,7 @@ const Home = () => {
             Transforming Ideas <br /> Into <span className="text-accent">Digital Reality</span>
           </motion.h1>
           {/* subtitle */}
-          <motion.p variants={fadeIn('down',0.3)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro recusandae maiores eius cupiditate libero in at, sint doloremque voluptatem officia!</motion.p>
+          <motion.p variants={fadeIn('down',0.3)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">Design is not just what it looks like and feels like. Design is how it works." At Narayan Verma, we create intuitive, user-friendly websites that not only look stunning but function flawlessly, ensuring your business stands out online.</motion.p>
           {/*btn */}
           <div className="flex justify-center xl:hidden relative">
             <ProjectsBtn />
